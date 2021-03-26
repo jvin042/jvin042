@@ -16,8 +16,8 @@
 
 <h2>📊 My Statistics </h2>
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jvin042&count_private=true&show_icons=true&theme=synthwave)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvin042&layout=compact&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jvin042&count_private=true&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvin042&layout=compact&theme=dracula)
 
 <h2>💬 How to reach me... </h2>
 
