@@ -14,6 +14,11 @@
 ![foss](https://img.shields.io/badge/-open_source-53B50A?style=for-the-badge&logo=open-source-initiative&logoWidth=20&logoColor=white)
 ![plex](https://img.shields.io/badge/-plex-gray?style=for-the-badge&logo=plex&logoWidth=20)
 
+<h2>📊 My Statistics </h2>
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jvin042&count_private=true&show_icons=true&theme=synthwave)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvin042&layout=compact&theme=synthwave)
+
 <h2>💬 How to reach me... </h2>
 
 * My [Session](https://getsession.org) ID: 05235e48880ffc72b070fbdae1f0aae4bc013e40715c38479663f898441b225c46
