@@ -9,7 +9,7 @@
 ![git](https://img.shields.io/badge/-GIT-EE0000?style=for-the-badge&logo=git&logoWidth=20&logoColor=white)
 ![vscode](https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20)
 
-</h2>❤️ Stuff I like...</h2>
+<h2>❤️ Stuff I like...</h2>
 
 ![foss](https://img.shields.io/badge/-open_source-53B50A?style=for-the-badge&logo=open-source-initiative&logoWidth=20&logoColor=white)
 ![plex](https://img.shields.io/badge/-plex-gray?style=for-the-badge&logo=plex&logoWidth=20)
