@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align=center>Hello there 👋</h1>
+<p align=center>I'm Jérémy and I'm a system and network administrator and self-taught developer in my free time.</p><br>
 
 <!--
 **jvin042/jvin042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
